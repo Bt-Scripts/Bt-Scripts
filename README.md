@@ -2,7 +2,7 @@
 
 Software Engineering student from Australia. I build things end to end: mobile apps, web platforms, network tools, and the odd PCB.
 
-Most of what I work on is private while it is in progress, so this profile is a lot smaller than what my profile displays.
+Most of my work sits in private repositories. The stats below are generated from my own account, so they count that work rather than just the public surface.
 
 ### Languages
 
@@ -30,7 +30,12 @@ Most of what I work on is private while it is in progress, so this profile is a 
 
 [![Currently learning](https://skillicons.dev/icons?i=docker,nextjs,supabase&theme=dark)](https://skillicons.dev)
 
+### Stats
 
-# Public Repo Stats
+![Overview](metrics/overview.svg)
+
+![Languages](metrics/languages.svg)
+
+![Contribution calendar](metrics/calendar.svg)
 
 ![Streak](https://streak-stats.demolab.com?user=Bt-Scripts&hide_border=true&theme=dark)
