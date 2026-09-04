@@ -59,3 +59,4 @@ jobs:
           committer_branch: main
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
