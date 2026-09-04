@@ -32,10 +32,11 @@ Most of my work sits in private repositories. The stats below are generated from
 
 ### Stats
 
-![Overview](metrics/overview.svg)
-
-![Languages](metrics/languages.svg)
-
-![Contribution calendar](metrics/calendar.svg)
-
-![Streak](https://streak-stats.demolab.com?user=Bt-Scripts&hide_border=true&theme=dark)
+<p align="center">
+  <img src="metrics/overview.svg" alt="Account overview" width="420">
+  <img src="metrics/calendar.svg" alt="Contribution calendar" width="420">
+</p>
+<p align="center">
+  <img src="metrics/languages.svg" alt="Most used languages" width="420">
+  <img src="https://streak-stats.demolab.com?user=Bt-Scripts&amp;theme=dark&amp;hide_border=true" alt="Contribution streak" width="420">
+</p>
