@@ -23,6 +23,9 @@ Most of my work sits in private repositories. The stats below are generated from
 ### What I am working on
 
 - **BrewBite**, a React Native ordering and loyalty app for cafes, with a Node API and a custom PCB kiosk terminal
+    - QR Code ordering
+    - Custom POS system
+    - Customisable subscription plan
 - **Sector**, an exam platform for subjects where students write code, built on Express and MySQL (in-progress)
 - [SetAside](https://setaside.au), a tax set aside calculator for Australian sole traders
 
