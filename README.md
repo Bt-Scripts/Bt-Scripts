@@ -7,7 +7,6 @@ Most of my work sits in private repositories. The stats below are generated from
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=py,js,ts,lua,cs,php,html,css,bash&theme=dark)](https://skillicons.dev)
-(
 
 ### Web and app stack
 
