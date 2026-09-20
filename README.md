@@ -30,7 +30,7 @@ Most of my work sits in private repositories. The stats below are generated from
     - Character Creation
     - Police system
     - Garages
-    - + Much more
+    - And much more
 - **Sector**, an exam platform for subjects where students write code, built on Express and MySQL (in-progress)
 - [SetAside](https://setaside.au), a tax set aside calculator for Australian sole traders
 
