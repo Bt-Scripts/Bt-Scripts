@@ -6,7 +6,7 @@ Most of my work sits in private repositories. The stats below are generated from
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=py,js,ts,lua,php,html,css,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,js,ts,lua,cs,php,html,css,bash&theme=dark)](https://skillicons.dev)
 (
 
 ### Web and app stack
@@ -15,7 +15,7 @@ Most of my work sits in private repositories. The stats below are generated from
 
 ### Data and infrastructure
 
-[![Data and infrastructure](https://skillicons.dev/icons?i=mysql,sqlite,linux,raspberrypi,nginx,cloudflare&theme=dark)](https://skillicons.dev)
+[![Data and infrastructure](https://skillicons.dev/icons?i=mysql,sqlite,linux,raspberrypi,nginx,cloudflare,azure,dotnet,supabase&theme=dark)](https://skillicons.dev)
 
 ### Tools
 
